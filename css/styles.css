@@ -1,0 +1,266 @@
+#main_contain{
+    margin-top: 1em !important;
+}
+
+.login_head{
+    font-family: 'Righteous', cursive;
+text-align:center;
+
+text-decoration: underline;
+text-decoration-color: black;
+}
+
+#login_head{
+    font-family: 'Righteous', cursive;
+text-align:center;
+
+text-decoration: underline;
+text-decoration-color: black;
+}
+
+.pager li .active{
+   background: #337ab7 !important; 
+   color: white !important
+}
+
+.pager li a{
+    background:  white !important;
+    color: #337ab7 !important; 
+    border: 1px solid black;
+ }
+
+ .pager li a:hover{
+    background: #0b64b3 !important; 
+    color: white !important
+ }
+
+.pager li .previous{
+    background: #337ab7 !important; 
+    color: white !important;
+    /* margin-left: 15%; */
+}
+
+.pager li .next{
+background: #337ab7 !important; 
+color: white !important;
+
+/* margin-right: 15%; */
+}
+
+img.top_user_pic{
+  
+    border: 2px solid grey !important ;
+border-radius: 150px;
+
+  }  
+  
+#dd_arrows{
+    color: grey !important;
+}
+
+#top_login{
+margin-top: 10% !important;
+
+}
+
+.forgot_btn{
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: rgb(21, 154, 255);
+}
+
+
+.forgot_btn:hover {color: rgb(5, 14, 9);}
+
+.active_category {color: rgb(38, 181, 102) !important;}
+
+.li_category{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.8em;
+    }
+    
+#category_list li:hover a{
+        color: red !important;
+}
+
+#category_list li a{
+   
+    margin-left: 0.5em;
+}
+
+.like_text{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+    padding-left: 3%;
+
+}
+.likes{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+    border: none;
+    background-color: inherit;
+    font-size: 2em;
+    cursor: pointer;
+    display: inline-block;
+    color: rgb(21, 154, 255);
+}
+
+.likes:hover {color: rgb(5, 14, 9);}
+
+ span.glyphicon.glyphicon-heart {
+color: red;
+text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+ } 
+
+ .comment_text{
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+ }
+
+ .comment_author{
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+    position: relative;
+    bottom: -10px;
+    left: 0;
+    text-decoration-line: underline;
+ }
+ .comment_date{
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+ }
+
+ .comment_pic{
+    border: 2px solid black !important ;
+    /* border-radius: 50px; */
+ }
+
+ .well {
+    border-color :black !important;
+    border-width: 7px !important;
+}
+
+#main_div{
+background-color :rgb(224, 232, 240);
+border: 5px solid black;
+margin-left: 3px;
+margin-right: 3px;
+}
+
+.hr_big{
+    border: 1px solid black;}
+
+.hr_big2{
+        border: 1px dashed black;}
+    
+
+
+#title_link:hover{
+color: red !important ;
+}
+
+#title_link{
+    color: black !important;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5em;
+    }
+   
+    .post_text{
+        color: black !important;
+        font-family: 'Indie Flower', cursive;
+        font-size: 1.5em;
+        }   
+
+    .post_title{
+            color: black !important;
+            font-family: 'Caveat', cursive;
+            font-size: 3.5em;
+           }     
+
+    #post_image{border: 1px solid black;}
+
+    @media screen and (max-width:768px){
+        .hidden-sm{
+           display:none;
+      }
+      
+          }
+
+.well hr{
+visibility: hidden;
+} 
+
+
+#search_title:hover{
+    color: red !important;
+}
+.contact_button{
+    margin-bottom: 2em;
+}
+
+#my_comments{
+ margin-top: 1em;   
+}
+
+
+
+ul.nav.navbar-right.top-nav{
+    list-style: none !important;
+    float: right;
+    padding-top: -20px !important;
+   } 
+ 
+
+   #home_link{
+     margin-bottom: -30px !important;
+     color: grey !important;
+     font-family: 'Caveat', cursive;
+     font-size: 1.7em !important;
+   }
+   #home_link:hover{
+    color: white !important;
+  }
+
+
+
+  a.dropdown-toggle{
+    color: grey !important;
+    font-size: 2em !important;
+    font-family: 'Caveat', cursive;
+    text-decoration: none !important;
+    
+  }
+
+  a.dropdown-toggle:hover{
+    text-decoration-color: white !important;
+    color: white !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    
+  }
+
+  #dd_arrows:hover{
+     color: white !important; 
+
+  }
+  #loop_links{
+        color: grey !important;
+        font-size: 1.5em !important;
+        font-family: 'Caveat', cursive;
+        text-decoration: none !important;
+        
+      }
+
+      .users_online{
+        color: black !important;
+        font-family: 'Orbitron', cursive;
+      }
+
+
+      .users_online:hover{
+       text-decoration: none !important;
+      }
+    

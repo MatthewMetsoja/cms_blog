@@ -1,0 +1,126 @@
+#bulk_options_container{
+    padding: 0 !important ;    
+    margin-bottom : 10px !important ;  ;
+    
+    }
+
+
+img.top_user_pic{
+  
+    border: 2px solid grey !important ;
+border-radius: 150px;
+
+  }  
+
+
+ #login_head{
+    font-family: 'Righteous', cursive;
+text-align:center;
+
+text-decoration: underline;
+text-decoration-color: black;
+}
+
+.please_highlight{
+ color: white !important; 
+ text-decoration-color: white !important;  
+ background: white !important;
+}
+#wrapper{padding: 0px !important;}
+
+#main_contain{
+    background: white !important;
+    padding-bottom: 150px !important;
+    margin-right: 3px !important;
+    margin-left: 3px !important;
+    margin-bottom: 5px !important;
+    
+    
+}
+
+@media screen and (max-width:768px){
+    .hidden-sm{
+       display:none;
+  }
+}
+  .well{
+    margin-top: 6.5em !important;  
+    border-color :black !important;
+    border-width: 7px !important;
+    margin-left: 3px !important;
+    padding-left: -15px;
+   background-color: rgb(139, 189, 220) !important;
+   
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+
+  .sidebar{
+margin-top: 2em !important;
+
+  }
+
+  .side_link{
+      margin-left: -40px !important; 
+      color: rgb(52, 58, 60) !important;
+      font-family: 'Caveat', cursive;
+      font-size: 1.6em;
+    
+    }
+
+  .side_link:hover{
+    color: rgba(250, 247, 161, 0.818) !important
+    }
+
+  li{
+    margin-bottom: 20px !important; }
+  
+  .active_picked{color: rgba(249, 59, 59, 0.818) !important}
+
+ul.nav.navbar-right.top-nav{
+   list-style: none !important;
+   float: right;
+   padding-top: 10px !important;
+  } 
+
+  #home_link{
+    margin-top: 30px !important;
+    color: grey !important;
+    font-family: 'Caveat', cursive;
+    font-size: 1.7em !important;
+  }
+  #home_link:hover{
+    
+    color: white !important;
+  }
+
+  .nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: transparent;
+    border-color: transparent;
+  }
+  a.dropdown-toggle{
+    color: grey !important;
+    font-size: 2em !important;
+    font-family: 'Caveat', cursive;
+    text-decoration: none;
+   
+  }
+
+  a.dropdown-toggle:hover{
+    color: white !important;
+    
+  }
+  
+  .users_online{
+    color: black !important;
+    font-family: 'Orbitron', cursive;
+  }
+
+  
+
+  .users_online:hover{
+   text-decoration: none;
+  }
